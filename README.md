@@ -1,3 +1,3 @@
-# Kakao Clone 2020 Update
+# Kakao Clone 2022
 
 Studying purpose for HTML and CSS
